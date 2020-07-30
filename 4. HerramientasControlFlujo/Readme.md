@@ -18,7 +18,7 @@ En otros lenguajes como los antes mencionados, utilizan las expresiones siguient
 
 En python la sentencia __for__ tiene la sintaxis siguiente:
 
-![Sentencia for simple y anidado](./assets/images/Sentencia_for_simple_anidado.png)
+![Sentencia for simple y anidado](/./assets/images/Sentencia_for_simple_anidado.png)
 
 Como se muestra en la imagen anterior una sentencia for puede estar dentro del boque de intrucciones de otro for, a esto se le llama bucles anidados y puede tener cualquier nivel de anidamiento
 
