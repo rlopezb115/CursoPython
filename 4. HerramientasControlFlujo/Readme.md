@@ -22,3 +22,9 @@ En python la sentencia __for__ tiene la sintaxis siguiente:
 
 Como se muestra en la imagen anterior una sentencia for puede estar dentro del boque de intrucciones de otro for, a esto se le llama bucles anidados y puede tener cualquier nivel de anidamiento
 
+## Función _range()_
+
+Puede hacer uso de esta función en los siguientes casos:
+1. Iterar sobre una secuencia de números, el valor final nunca es parte de la secuencia;  
+   es posible hacer que el rango empiece con otro número y especificar un incremento diferente
+2. Iterar sobre los indices de una secuencia, combinar range y len.
